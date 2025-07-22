@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Employee attrition can reveal hidden issues in a workplace—from poor job satisfaction to work-life balance challenges. This project aims to uncover key factors that influence employee turnover using **PySpark** and a **linear regression model**. Built as part of my graduate coursework in **Big Data Analytics**, it demonstrates my ability to set up a dual-node Spark environment, perform data preprocessing, and extract meaningful insights from large datasets.
+Employee attrition can reveal hidden issues in a workplace from poor job satisfaction to work-life balance challenges. This project aims to uncover key factors that influence employee turnover using **PySpark** and a **linear regression model**. Built as part of my graduate coursework in **Big Data Analytics**, it demonstrates my ability to set up a dual-node Spark environment, perform data preprocessing, and extract meaningful insights from large datasets.
 
 ---
 
