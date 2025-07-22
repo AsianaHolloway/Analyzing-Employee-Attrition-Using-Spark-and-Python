@@ -29,6 +29,7 @@ Employee attrition can reveal hidden issues in a workplace—from poor job satis
 
 ---
 
+
 ## 🔍 Objectives
 
 - ✅ Preprocess and clean data (remove missing values, label encode categories)
@@ -73,6 +74,16 @@ This project helped me:
 - `code/`: Spark and Python scripts
 - `visuals/`: Screenshot folder (Spark setup, bar chart)
 - `README.md`: Project summary and references
+
+---
+
+## 📂 Code Overview
+
+### `Single_VM_Test.py`
+Runs the machine learning pipeline on a single virtual machine using Apache Spark. It performs data preprocessing, model training, and evaluation on a standalone node to establish a performance baseline.
+
+### `Dual_VM_Test.py`
+Runs the same ML pipeline on a dual-VM Spark cluster. It distributes computation to evaluate performance scalability and speed improvements compared to the single-node setup.
 
 ---
 
