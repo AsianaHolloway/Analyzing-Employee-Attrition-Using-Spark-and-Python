@@ -1,3 +1,11 @@
+"""
+Employee_Attrition_Analysis.py
+
+This script performs end-to-end preprocessing and analysis of the IBM HR Analytics Employee Attrition dataset using Apache Spark.
+It includes steps for data cleaning, feature selection, and insights into employee turnover trends. 
+The goal is to explore factors contributing to attrition to support strategic HR decisions.
+"""
+
 Python 3.12.0 (v3.12.0:0fb18b02c8, Oct  2 2023, 09:45:56) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> !unzip /home/sat3812/Downloads/archive.zip -d /home/sat3812/Downloads/
