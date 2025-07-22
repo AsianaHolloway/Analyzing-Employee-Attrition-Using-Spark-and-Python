@@ -1,3 +1,11 @@
+"""
+Dual_VM_Test.py
+
+Runs the employee attrition machine learning pipeline on a two-VM Apache Spark cluster.
+Distributes data processing and model training to evaluate scalability and performance
+improvements compared to a single-node setup.
+"""
+
 Python 3.12.0 (v3.12.0:0fb18b02c8, Oct  2 2023, 09:45:56) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> from pyspark.sql import SparkSession
