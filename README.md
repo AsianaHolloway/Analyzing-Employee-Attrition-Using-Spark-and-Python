@@ -87,6 +87,32 @@ Runs the same ML pipeline on a dual-VM Spark cluster. It distributes computation
 
 ---
 
+## 📊 Result Screenshots
+
+These screenshots highlight runtime performance metrics captured while executing Spark jobs on single and dual VM configurations.
+
+1. **Start:End Time Data Loading**  
+   *Displays the Python terminal session showing the time measurement for data loading from CSV into Spark DataFrame using PySpark.*
+
+2. **Data Loading Time (Single VM)**  
+   *Shows the output of the time taken to load the dataset into Spark on a single VM node—used to benchmark loading performance.*
+
+3. **Data Cleaning Time (Single VM)**  
+   *Illustrates the duration required to clean the data (dropping nulls) on a single VM environment.*
+
+4. **Data Analysis Time (Single VM)**  
+   *Displays the execution time for analyzing employee attrition counts on a single VM using Spark.*
+
+5. **Data Loading Time (Dual VM)**  
+   *Shows the output of loading the dataset on a dual-VM Spark environment to compare against single VM performance.*
+
+6. **Data Cleaning Time (Dual VM)**  
+   *Displays the duration of the data cleaning operation across a dual-VM cluster.*
+
+7. **Data Analysis Time (Dual VM)**  
+   *Shows time required to perform employee attrition group analysis on a dual-VM Spark setup.*
+---
+
 ## 🔗 Additional Resources
 
 - 🗃️ [Kaggle Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
