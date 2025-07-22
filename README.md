@@ -89,7 +89,7 @@ Runs the same ML pipeline on a dual-VM Spark cluster. It distributes computation
 
 ## 📊 Result Screenshots
 
-These screenshots highlight runtime performance metrics captured while executing Spark jobs on single and dual VM configurations.
+Screenshots in the visual file highlight runtime performance metrics captured while executing Spark jobs on single and dual VM configurations.
 
 1. **Start:End Time Data Loading**  
    *Displays the Python terminal session showing the time measurement for data loading from CSV into Spark DataFrame using PySpark.*
