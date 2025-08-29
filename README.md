@@ -120,8 +120,6 @@ Screenshots in the visual file highlight runtime performance metrics captured wh
 
 ---
 
-Author
-
 Asiana Holloway 
 Graduate Student – Big Data Analytics
 
